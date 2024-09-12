@@ -97,10 +97,10 @@ h2 {
 }
 
 .skill-bar.html { width: 90%; background-color: #E34F26; }
-.skill-bar.css { width: 85%; background-color: #1572B6; }
-.skill-bar.javascript { width: 80%; background-color: #F7DF1E; }
-.skill-bar.wordpress { width: 75%; background-color: #21759B; }
-.skill-bar.shopify { width: 70%; background-color: #7AB55C; }
+.skill-bar.css { width: 70%; background-color: #1572B6; }
+.skill-bar.javascript { width: 20%; background-color: #F7DF1E; }
+.skill-bar.wordpress { width: 100%; background-color: #21759B; }
+.skill-bar.shopify { width: 80%; background-color: #7AB55C; }
 
 /* Services Section */
 #services {
